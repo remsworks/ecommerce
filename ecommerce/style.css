@@ -12,6 +12,10 @@ body{
     align-items: center;
     padding:20px;
 }
+
+.group-logo span {
+    color: #ff523b;
+}
 /*nav maenu on the right as a unordered list*/
 nav{
     flex: 1;
