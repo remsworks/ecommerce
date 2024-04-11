@@ -12,10 +12,20 @@ body{
     align-items: center;
     padding:20px;
 }
+<<<<<<< HEAD
+
+.logo {
+    display: flex;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 600;
+}
 
 .group-logo span {
     color: #ff523b;
 }
+=======
+>>>>>>> 400988bf6b37790a4ec4d85c455009eb042b9b63
 /*nav maenu on the right as a unordered list*/
 nav{
     flex: 1;
